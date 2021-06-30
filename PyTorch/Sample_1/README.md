@@ -1,7 +1,6 @@
-PyTorch Beginner Tutorials from my YouTube channel.
+PyTorch Source code list
 
-## Watch the Playlist
-  [![Alt text](https://img.youtube.com/vi/EMXfZB8FVUA/hqdefault.jpg)](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
+
   
   1. Installation
   2. Tensor Basics
